@@ -1,56 +1,36 @@
 {
   "main": {
-    "name":"Tim Baker",
-    "occupation":"(Your Occupation Here)",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "name":"Justin Suderman",
+    "occupation":"Full Stack Web Developer",
+    "description":"I am looking for a full time career where I can implement the skills that I have acquired.  Interested in working with a great team where I can continue to learn and grow.  Skills include HTML5, CSS3, JavaScript, jQuery, Bootstrap, React.js, Node.js, C#, .Net, Database Theory, MongoDB, MySQL, Command Line, and Git",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "bio":"I just moved to the Bay Area from the east coast. Seeking a full time career that I can use my skills and continue to grow. I really enjoy working with a great team to strive for a common goal.  Sports and coaching are my other passions in life.  Hoping to be able to continue that in the Bay Area as well.",
+    "contactmessage":"If you would like to contact or ask a question, please comment down below!",
+    "email": "jsuderman1@gmail.com",
+    "phone": "808-729-0952",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"455 Brahms Way",
+      "city":"Sunnyvale",
+      "state":"CA",
+      "zip": "94087"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"https://docs.google.com/document/d/1dcJYxsqWtX277mn5Lp5DRjFgXKZcTYYlhZgx7J2PYyA/edit?usp=sharing",
     "social":[
       {
-        "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
-      },
-      {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
-        "className":"fa fa-linkedin"
-      },
-      {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"http://github.com/jsuderman",
         "className":"fa fa-github"
       },
       {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
+        "name":"twitter",
+        "url":"http://twitter.com/JustinSuderman",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/justin-suderman-a411471a6",
+        "className":"fa fa-linkedin"
       }
     ]
   },
@@ -58,16 +38,16 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Southern New Hampshire University",
+        "degree":"Sport Management",
+        "graduated":"May 2013",
+        "description":""
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"UNC Charlotte",
+        "degree":"Coding: Full Stack Web Development",
+        "graduated":"October 2020",
+        "description":"HTML5, CSS3, JavaScript, jQuery, Bootstrap, React.js, Node.js, C#, .Net, Database Theory, MongoDB, MySQL, Command Line, and Git."
       }
     ],
     "work":[
@@ -86,32 +66,32 @@
     ],
     "skills":[
       {
-        "name":"Git",
-        "level":"60%"
+        "name":"",
+        "level":""
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
+        "name":"",
+        "level":""
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
+        "name":"",
+        "level":""
       },
       {
-        "name":"CSS",
-        "level":"90%"
+        "name":"",
+        "level":""
       },
       {
-        "name":"HTML5",
-        "level":"80%"
+        "name":"",
+        "level":""
       },
       {
-        "name":"VueJs",
-        "level":"50%"
+        "name":"",
+        "level":""
       },
       {
-        "name":"MongoDB",
-        "level":"80%"
+        "name":"",
+        "level":""
       }
     ]
   },
