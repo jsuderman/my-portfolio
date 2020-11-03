@@ -1,0 +1,138 @@
+{
+  "main": {
+    "name":"Justin Suderman",
+    "occupation":"Full Stack Web Developer",
+    "description":"I am looking for a full time career where I can implement the skills that I have acquired.  Interested in working with a great team where I can continue to learn and grow.  Skills include HTML5, CSS3, JavaScript, jQuery, Bootstrap, React.js, Node.js, C#, .Net, Database Theory, MongoDB, MySQL, Command Line, and Git",
+    "image":"profilepic.jpg",
+    "bio":"I just moved to the Bay Area from the east coast. Seeking a full time career that I can use my skills and continue to grow. I really enjoy working with a great team to strive for a common goal.  Sports and coaching are my other passions in life.  Hoping to be able to continue that in the Bay Area as well.",
+    "contactmessage":"If you would like to contact or ask a question, please comment down below!",
+    "email": "jsuderman1@gmail.com",
+    "phone": "808-729-0952",
+    "address":{
+      "street":"455 Brahms Way",
+      "city":"Sunnyvale",
+      "state":"CA",
+      "zip": "94087"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://docs.google.com/document/d/1dcJYxsqWtX277mn5Lp5DRjFgXKZcTYYlhZgx7J2PYyA/edit?usp=sharing",
+    "social":[
+      {
+        "name":"github",
+        "url":"http://github.com/jsuderman",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/JustinSuderman",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/justin-suderman-a411471a6",
+        "className":"fa fa-linkedin"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Southern New Hampshire University",
+        "degree":"Sport Management",
+        "graduated":"May 2013",
+        "description":""
+      },
+      {
+        "school":"UNC Charlotte",
+        "degree":"Coding: Full Stack Web Development",
+        "graduated":"October 2020",
+        "description":"HTML5, CSS3, JavaScript, jQuery, Bootstrap, React.js, Node.js, C#, .Net, Database Theory, MongoDB, MySQL, Command Line, and Git."
+      }
+    ],
+    "work":[
+      {
+        "company":"Awesome Design Studio",
+        "title":"Senior UX God ",
+        "years":"March 2010 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Super Cool Studio",
+        "title":"Junior bug fixer",
+        "years":"March 2007 - February 2010",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"",
+        "level":""
+      },
+      {
+        "name":"",
+        "level":""
+      },
+      {
+        "name":"",
+        "level":""
+      },
+      {
+        "name":"",
+        "level":""
+      },
+      {
+        "name":"",
+        "level":""
+      },
+      {
+        "name":"",
+        "level":""
+      },
+      {
+        "name":"",
+        "level":""
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Brewery Map",
+        "category":"Map that takes in zip code from user and displays breweries in that zip code",
+        "image":"brew2.jpg",
+        "url":"https://kvrivas854.github.io/brewery-map/"
+      },
+      {
+        "title":"React Employee Directory",
+        "category":"Directory that retrieves data from API and displays.  Also dynamically filters employees by name search.",
+        "image":"directory.jpg",
+        "url":"https://jsuderman.github.io/React-Employee-Directory/"
+      },
+      {
+        "title":"Express Note Taker",
+        "category":"Website I built to allow a user to take notes, save and delete in real time",
+        "image":"Note-Taker.jpg",
+        "url":"https://sleepy-coast-34558.herokuapp.com/"
+      },
+      {
+        "title":"Workout Tracker",
+        "category":"A fitness tracker for a user to input info",
+        "image":"Workout-Tracker.jpg",
+        "url":"https://nosql-worktracker.herokuapp.com/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
