@@ -98,34 +98,28 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Brewery Map",
+        "category":"Map that takes in zip code from user and displays breweries in that zip code",
+        "image":"brew2.jpg",
+        "url":"https://kvrivas854.github.io/brewery-map/"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"React Employee Directory",
+        "category":"Directory that retrieves data from API and displays.  Also dynamically filters employees by name search.",
+        "image":"directory.jpg",
+        "url":"https://jsuderman.github.io/React-Employee-Directory/"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Express Note Taker",
+        "category":"Website I built to allow a user to take notes, save and delete in real time",
+        "image":"Note-Taker.jpg",
+        "url":"https://sleepy-coast-34558.herokuapp.com/"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Workout Tracker",
+        "category":"A fitness tracker for a user to input info",
+        "image":"Workout-Tracker.jpg",
+        "url":"https://nosql-worktracker.herokuapp.com/"
       }
     ]
   },
